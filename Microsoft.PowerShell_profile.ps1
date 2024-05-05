@@ -118,7 +118,7 @@ function uptime {
     }
 }
 
-function reload-profile {
+function Invoke-Profile {
     & $profile
 }
 
